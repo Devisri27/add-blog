@@ -1,6 +1,6 @@
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Lab | JS BLOG
+
+ JS BLOG
 
 We have learned Object-oriented programming and how class and inheritance work in JavaScript. Now lets work with our Viking friends, applying all of the concepts we have just learned.
 
@@ -16,10 +16,10 @@ Practice OOPs Features
 Upon completion, run the following commands:
 
 git add .
-git commit -m "ProGrad ID"
+git commit -m "commit ID"
 git push origin master
 
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
+And finally, create a pull request so your  Mentor  can review your work.
 ```
 
 ## Instructions
@@ -61,14 +61,13 @@ Modify the Blog class and add two methods to it: addTitle(), and addDescription(
 - should be a method.
 - should have 0 arguments.
 - should display the description as a paragraph.
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-1.png)
 
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-2.png)
+
 
 ### Progression 2:  SHOW EM UP
 
 Setup `EventListeners`, so that we can display the entire blog for the users
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-3.png)
 
-Happy Coding ProGrads❤️
+
+
 
